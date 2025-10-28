@@ -4,43 +4,50 @@ description: What’s supported. How updates happen.
 
 # 📬 Support
 
-## 📩 Contact
+<details>
 
-Found a bug? Want to share **feedback?**
+<summary>Contact</summary>
 
-* 💬 [Discord](https://discord.gg/XGGtydHrSb)
-* 🪛 [Github](https://github.com/seriousfreezing/the-solar-apocalypse)
+Talk to our team for anything you need. **It's simple.**\
+💬 [Discord](https://discord.gg/XGGtydHrSb)\
+⚙ [Github](https://github.com/seriousfreezing/the-solar-apocalypse)
+
+</details>
 
 ## 🌀 Seasons
 
-Each major Minecraft update brings change — and so does the modpack. Seasons introduce new content, refreshed mods, and tailored experiences that evolve with the game.
+Each major Minecraft update brings change, and so does the modpack. Seasons introduce new content, refreshed mods, and tailored experiences that evolve with the game.
 
 * Versions prior to 19.0 fall under **Season 0.**
 
-## 📘 Versions
+## 🔢 Versions
 
-Which versions are **actively supported** — and which are no longer receiving updates.
+Which versions are **actively supported,** and which are no longer receiving updates.
 
-<table><thead><tr><th width="109.99993896484375">Minecraft</th><th width="150.4000244140625" align="center">Fabric</th></tr></thead><tbody><tr><td>1.21.10</td><td align="center"><a data-footnote-ref href="#user-content-fn-1">✅ Latest</a></td></tr><tr><td>1.21.1</td><td align="center"><a data-footnote-ref href="#user-content-fn-2">⏳ LTS</a></td></tr><tr><td>&#x3C;1.21.8</td><td align="center"><a data-footnote-ref href="#user-content-fn-3">⚠️ Deprecated</a></td></tr></tbody></table>
+| Minecraft |                 Support                 |
+| :-------: | :-------------------------------------: |
+|  1.21.10  |    [✅ Latest](#user-content-fn-1)[^1]   |
+|   1.21.1  |     [⏳ LTS](#user-content-fn-2)[^2]     |
+|  <1.21.8  | [⚠️ Deprecated](#user-content-fn-3)[^3] |
 
 ## 🚦 Status
 
 Each update goes through well-defined stages to **ensure stability and polish.**
 
-* **`🧪 Alpha`** - Experimental, not recommended.
-* **`🔧 Beta`** - Stable enough to play, but expect minor issues.
-* **`🚀 Release`** - Ready for general use.
+* **`🧪 Alpha`** — Experimental, not recommended.
+* **`🔧 Beta`** — Stable enough to play, but expect minor issues.
+* **`🚀 Release`** — Ready for general use.
 
-## 📅 Schedule
+## 🔄 Frequency <a href="#frequency" id="frequency"></a>
 
-The Solar Apocalypse gets **monthly updates** — with new improvements and fixes.
+The Solar Apocalypse gets **monthly updates,** with new improvements and fixes.
 
-## 📐 Logic
+## 🏗 Structure <a href="#structure" id="structure"></a>
 
-Every update follows a consistent structure — **so you always know what to expect.**
+Every update follows a consistent structure, **so you always know what to expect.**
 
-* `1.0` – New features, removals, or bigger changes.
-* `0.1` – Minor adjustments, bug fixes and optimizations.
+* `1.0` — New features, removals or bigger changes.
+* `0.1` — Minor adjustments, bug fixes and optimizations.
 
 [^1]: Actively developed and supported.
 

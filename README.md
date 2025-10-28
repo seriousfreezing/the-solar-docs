@@ -7,6 +7,7 @@ description: Discover new ways to experience The Solar Apocalypse.
 ### 📘 Summary
 
 * 🧩 [Discover post-install features.](add-on.md)
+* 🤔 [Don't know how to install a modpack?](installation-guide.md)
 * 📘 [First time? We’ve got you covered.](getting-started.md)
 * ❓ [Need help or found a bug?](support.md)
 * ⚠️ [Want to fork The Solar Apocalypse?](disclaimer.md)

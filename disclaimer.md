@@ -1,5 +1,5 @@
 ---
-description: A quick guide to attribution, restrictions and permissions.
+description: Clear guidelines for using, crediting, and building upon the modpack.
 ---
 
 # ⚠️ Disclaimer
@@ -17,7 +17,7 @@ By using this modpack, you agree to the following:
 
     — Commercial use and modification are **prohibited.**
 
-<table><thead><tr><th width="600" align="center" valign="middle">🔒 Protected Files</th></tr></thead><tbody><tr><td align="center" valign="middle">./resourcepacks/ApocalypseTweaks.zip/assets/hammering/</td></tr><tr><td align="center" valign="middle">./resourcepacks/ApocalypseTweaks.zip/assets/onlyhammersandexcavators/</td></tr><tr><td align="center" valign="middle">./resourcepacks/ApocalypseTweaks.zip/assets/toms_storage/</td></tr><tr><td align="center" valign="middle">./resourcepacks/ApocalypseTweaks.zip/assets/toughasnails/</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th align="center" valign="middle">🔒 Protected Files</th></tr></thead><tbody><tr><td align="center" valign="middle">./resourcepacks/ApocalypseTweaks.zip/assets/hammering/</td></tr><tr><td align="center" valign="middle">./resourcepacks/ApocalypseTweaks.zip/assets/onlyhammersandexcavators/</td></tr><tr><td align="center" valign="middle">./resourcepacks/ApocalypseTweaks.zip/assets/toms_storage/</td></tr><tr><td align="center" valign="middle">./resourcepacks/ApocalypseTweaks.zip/assets/toughasnails/</td></tr></tbody></table>
 
 ## ✨ Appreciation
 

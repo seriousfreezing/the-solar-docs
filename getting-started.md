@@ -6,7 +6,7 @@ description: Everything you need to begin your journey.
 
 ## 🌱 Early Game
 
-Your first days can be tough — here’s what you’ll need to stay ahead:
+Your first days can be tough, here’s what you’ll need to stay ahead:
 
 * <img src="https://i.imgur.com/A5g75bj.png" alt="Cow" data-size="line"> Animals
 * <img src="https://i.imgur.com/xwGH7nB.png" alt="Wheat" data-size="line"> Crops
@@ -15,7 +15,7 @@ Your first days can be tough — here’s what you’ll need to stay ahead:
 * <img src="https://i.imgur.com/PCtzwc6.png" alt="Birch Sapling" data-size="line"> Saplings
 
 {% hint style="info" %}
-**Tip:** Build your base **below Y=0** — the Sun becomes deadly above that level until **day 100.**
+**Tip:** Build your base **below Y=0,** the Sun becomes deadly above that level until **day 100.**
 {% endhint %}
 
 ## 🌊 Make It Flow

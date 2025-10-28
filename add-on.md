@@ -1,10 +1,12 @@
 ---
-description: Improve performance, visuals or immersion — your choice.
+description: Improve performance, visuals or gameplay — your choice.
 ---
 
 # 🧩 Add‐on
 
-## 🎓 Learn
+<details>
+
+<summary>❔ Installing Mods</summary>
 
 **New to modding?** These guides have you covered.
 
@@ -13,12 +15,14 @@ description: Improve performance, visuals or immersion — your choice.
 * <img src="https://cdn.modrinth.com/modrinth-new.png" alt="Modrinth" data-size="line"> [**Modrinth App**](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/571/How-to-add-and-remove-mods-from-a-Modrinth-modpack.html)
 * <img src="https://cdn2.steamgriddb.com/icon_thumb/bb8bf48a4f86fb1a77d0d0953d87958e.png" alt="Prism Launcher" data-size="line"> [**Prism Launcher**](https://prismlauncher.org/wiki/getting-started/download-mods/)
 
+</details>
+
 ## 🚀 Optimization
 
-A touch of extra performance — **if you need it.**
+A touch of extra performance, **if you need it.**
 
-* <img src="https://media.forgecdn.net/avatars/thumbnails/918/720/64/64/638380210681797905.png" alt="BadOptimizations" data-size="line"> [**BadOptimizations**](https://modrinth.com/mod/badoptimizations) Micro-optimizations. Results may vary.
-* <img src="https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp" alt="C2ME" data-size="line"> [**C2ME**](https://modrinth.com/mod/c2me-fabric) Optimizes the chunk. May be unstable.
-* <img src="https://cdn.modrinth.com/data/SfMw2IZN/2db76d464a0f67cdb9e30fd99040eb096ac62016_96.webp" alt="Nvidium" data-size="line"> [**Nvidium**](https://modrinth.com/mod/nvidium) OpenGL extension for Nvidia GPUs. Incompatible with some mods.
-* <img src="https://cdn.modrinth.com/data/vSEH1ERy/5d2913ba6c0299ac60b03d0b572a78c67c04c541_96.webp" alt="ThreadTweak" data-size="line"> [**ThreadTweak**](https://modrinth.com/mod/threadtweak) Adjusts CPU scheduling. May reduce FPS on some setups.
-* <img src="https://cdn.modrinth.com/data/wnEe9KBa/0bb4b66e80c6cca9c37f6f1021a94670d6f820dc_96.webp" alt="VMP" data-size="line"> [**VMP**](https://modrinth.com/mod/vmp-fabric) Improves server performance. Experimental.
+* <img src="https://media.forgecdn.net/avatars/thumbnails/918/720/64/64/638380210681797905.png" alt="BadOptimizations" data-size="line"> [**BadOptimizations**](https://modrinth.com/mod/badoptimizations) **—** Micro-optimizations. Results may vary.
+* <img src="https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp" alt="C2ME" data-size="line"> [**C2ME**](https://modrinth.com/mod/c2me-fabric) **—** Optimizes the chunk. May be unstable.
+* <img src="https://cdn.modrinth.com/data/SfMw2IZN/2db76d464a0f67cdb9e30fd99040eb096ac62016_96.webp" alt="Nvidium" data-size="line"> [**Nvidium**](https://modrinth.com/mod/nvidium) **—** OpenGL extension for Nvidia GPUs. Incompatible with some mods.
+* <img src="https://cdn.modrinth.com/data/vSEH1ERy/5d2913ba6c0299ac60b03d0b572a78c67c04c541_96.webp" alt="ThreadTweak" data-size="line"> [**ThreadTweak**](https://modrinth.com/mod/threadtweak) **—** Adjusts CPU scheduling. May reduce FPS on some setups.
+* <img src="https://cdn.modrinth.com/data/wnEe9KBa/0bb4b66e80c6cca9c37f6f1021a94670d6f820dc_96.webp" alt="VMP" data-size="line"> [**VMP**](https://modrinth.com/mod/vmp-fabric) **—** Improves server performance. Experimental.
