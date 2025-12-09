@@ -4,6 +4,36 @@ description: Everything you need to begin your journey.
 
 # 🧭 Getting Started
 
+## ☀️ **The Sun’s Awakening**
+
+* On day 5: Surface blocks began to burn.
+* On day 10: Entities exposed to the _**Sun**_ will burn.
+* On day 15 to 100: The _**Sun**_ will burn any entity or block from layer 100 down to layer 0, regardless of sky exposure.
+
+<details>
+
+<summary>Older Versions</summary>
+
+#### From 16.0.0:
+
+* On day 2: Surface blocks began to burn.
+* On day 4: Entities exposed to the _**Sun**_ will burn.
+* On day 15: The _**Sun**_ will burn any entity or block from layer 100 down to layer 0, regardless of sky exposure.
+
+#### From 13.0.0:
+
+* On day 3: Mycelium and Grass will turn to dirt.
+* On day 5: Blocks and Water will be affected.
+* On day 7: Mobs and Players will burn.
+
+#### Before 13.0.0:
+
+* On day 3: Mycelium and Grass will turn to dirt.
+* On day 6: Blocks and Water will be affected.
+* On day 9: Mobs and Players will burn.
+
+</details>
+
 ## 🌱 Early Game
 
 Your first days can be tough, here’s what you’ll need to stay ahead:
@@ -18,7 +48,9 @@ Your first days can be tough, here’s what you’ll need to stay ahead:
 **Tip:** Build your base **below Y=0,** the Sun becomes deadly above that level until **day 100.**
 {% endhint %}
 
-## 🌊 Make It Flow
+<details>
+
+<summary>🌊 Infinite Water (below 15.0.0 for 1.21.1)</summary>
 
 Learn how to generate an infinite water source.
 
@@ -36,3 +68,5 @@ Learn how to generate an infinite water source.
 4. Collect water where the kelp was.
 
 <div align="left" data-full-width="false"><figure><img src=".gitbook/assets/area_render.gif" alt="Illustration of the Infinite Source of Water." width="311"><figcaption></figcaption></figure></div>
+
+</details>
