@@ -22,7 +22,8 @@ description: Improve performance, visuals or gameplay — your choice.
 A touch of extra performance, **if you need it.**
 
 * <img src="https://media.forgecdn.net/avatars/thumbnails/918/720/64/64/638380210681797905.png" alt="BadOptimizations" data-size="line"> [**BadOptimizations**](https://modrinth.com/mod/badoptimizations) **—** Micro-optimizations. Results may vary.
-* <img src="https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp" alt="C2ME" data-size="line"> [**C2ME**](https://modrinth.com/mod/c2me-fabric) **—** Optimizes the chunk. May be unstable.
-* <img src="https://cdn.modrinth.com/data/SfMw2IZN/2db76d464a0f67cdb9e30fd99040eb096ac62016_96.webp" alt="Nvidium" data-size="line"> [**Nvidium**](https://modrinth.com/mod/nvidium) **—** OpenGL extension for Nvidia GPUs. Incompatible with some mods.
-* <img src="https://cdn.modrinth.com/data/vSEH1ERy/5d2913ba6c0299ac60b03d0b572a78c67c04c541_96.webp" alt="ThreadTweak" data-size="line"> [**ThreadTweak**](https://modrinth.com/mod/threadtweak) **—** Adjusts CPU scheduling. May reduce FPS on some setups.
+* <img src="https://cdn.modrinth.com/data/4WWQxlQP/5207e4657a1d0e929506a8c07491a42fa73b0a29_96.webp" alt="ServerCore" data-size="line"> [**ServerCore**](https://modrinth.com/mod/servercore) — [Optimizations focused on server logic.](#user-content-fn-1)[^1]&#x20;
+* <img src="https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp" alt="ScalableLux" data-size="line"> [**ScalableLux**](https://modrinth.com/mod/scalablelux) — [Improvements to the lighting system.](#user-content-fn-1)[^1]
 * <img src="https://cdn.modrinth.com/data/wnEe9KBa/0bb4b66e80c6cca9c37f6f1021a94670d6f820dc_96.webp" alt="VMP" data-size="line"> [**VMP**](https://modrinth.com/mod/vmp-fabric) **—** Improves server performance. Experimental.
+
+[^1]: Only useful for servers.
