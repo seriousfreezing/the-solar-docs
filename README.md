@@ -15,6 +15,6 @@ description: Discover new ways to experience The Solar Apocalypse.
 ***
 
 {% hint style="info" %}
-Copyright © 2025 SeriousFreezing. [GPL-3.](https://www.gnu.org/licenses/gpl-3.0.html#license-text)\
+Copyright © 2026 SeriousFreezing. [GPL-3.](https://www.gnu.org/licenses/gpl-3.0.html#license-text)\
 Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 {% endhint %}

@@ -10,7 +10,7 @@ description: What’s supported. How updates happen.
 
 Talk to our team for anything you need. **It's simple.**\
 💬 [Discord](https://discord.gg/XGGtydHrSb)\
-⚙ [Github](https://github.com/seriousfreezing/the-solar-apocalypse)
+⚙️ [Github](https://github.com/seriousfreezing/bedrock-reloaded/issues/new/choose)
 
 </details>
 
