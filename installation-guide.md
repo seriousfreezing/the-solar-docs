@@ -39,6 +39,6 @@ java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercon
 ```
 {% endcode %}
 
-* These versions are no longer supported. List of versions: `1.21.3/1.21.4/1.21.5/1.21.8`
+* These versions are no longer supported. List of versions: `1.21.3/1.21.4/1.21.5/1.21.8/1.21.10`
 
 </details>
