@@ -67,6 +67,6 @@ Learn how to generate an infinite water source.
 3. Break the kelp.
 4. Collect water where the kelp was.
 
-<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/area_render.gif" alt="Illustration of the Infinite Source of Water." width="311"><figcaption><p>Illustration of the Infinite Source of Water.</p></figcaption></figure></div>
+<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/infinitewater.gif" alt="Illustration of the Infinite Source of Water." width="311"><figcaption><p>Illustration of the Infinite Source of Water.</p></figcaption></figure></div>
 
 </details>
