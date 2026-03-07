@@ -51,8 +51,8 @@ The Solar Apocalypse gets **monthly updates**, with new improvements and fixes.
 > [Discord](https://discord.gg/XGGtydHrSb)\
 > [Github](https://github.com/seriousfreezing/the-solar-apocalypse/issues/new/choose)
 
-[^1]: _Actively developed and supported._
+[^1]: Actively developed and supported.
 
-[^2]: _Receives only bug fixes and essential updates._
+[^2]: Receives only bug fixes and essential updates.
 
-[^3]: _No longer supported or updated._
+[^3]: No longer supported or updated.
