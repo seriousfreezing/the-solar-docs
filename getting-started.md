@@ -50,7 +50,7 @@ Your first days can be tough, here’s what you’ll need to stay ahead:
 
 <details>
 
-<summary>🌊 Infinite Water (below 15.0.0 for 1.21.1)</summary>
+<summary><strong>🌊 Infinite Water (below 15.0.0 for 1.21.1)</strong></summary>
 
 Learn how to generate an infinite water source.
 

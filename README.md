@@ -4,7 +4,7 @@ description: Explore, learn, and get the most out of The Solar Apocalypse.
 
 # 🏠 Home
 
-#### 📘 Summary
+### 📘 Summary
 
 * 📘 [**First time? We’ve got you covered.**](getting-started.md)
 * 🤔 [**Don't know how to install a modpack?**](installation-guide.md)
