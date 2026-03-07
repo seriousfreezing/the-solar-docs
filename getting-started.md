@@ -4,7 +4,7 @@ description: Everything you need to begin your journey.
 
 # 🧭 Getting Started
 
-## ☀️ **The Sun’s Awakening**
+### ☀️ **The Sun’s Awakening**
 
 * On day 5: Surface blocks began to burn.
 * On day 10: Entities exposed to the _**Sun**_ will burn.
@@ -12,21 +12,21 @@ description: Everything you need to begin your journey.
 
 <details>
 
-<summary>Older Versions</summary>
+<summary><strong>Older Versions</strong></summary>
 
-#### From 16.0.0:
+**From 16.0.0:**
 
 * On day 2: Surface blocks began to burn.
 * On day 4: Entities exposed to the _**Sun**_ will burn.
 * On day 15: The _**Sun**_ will burn any entity or block from layer 100 down to layer 0, regardless of sky exposure.
 
-#### From 13.0.0:
+**From 13.0.0:**
 
 * On day 3: Mycelium and Grass will turn to dirt.
 * On day 5: Blocks and Water will be affected.
 * On day 7: Mobs and Players will burn.
 
-#### Before 13.0.0:
+**Before 13.0.0:**
 
 * On day 3: Mycelium and Grass will turn to dirt.
 * On day 6: Blocks and Water will be affected.
@@ -34,7 +34,7 @@ description: Everything you need to begin your journey.
 
 </details>
 
-## 🌱 Early Game
+### 🌱 Early Game
 
 Your first days can be tough, here’s what you’ll need to stay ahead:
 
@@ -45,7 +45,7 @@ Your first days can be tough, here’s what you’ll need to stay ahead:
 * <img src="https://i.imgur.com/PCtzwc6.png" alt="Birch Sapling" data-size="line"> Saplings
 
 {% hint style="info" %}
-**Tip:** Build your base **below Y=0,** the Sun becomes deadly above that level until **day 100.**
+**Tip:** Build your base **below Y=0**, the Sun becomes deadly above that level until **day 100**.
 {% endhint %}
 
 <details>
@@ -67,6 +67,6 @@ Learn how to generate an infinite water source.
 3. Break the kelp.
 4. Collect water where the kelp was.
 
-<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/area_render.gif" alt="Illustration of the Infinite Source of Water." width="311"><figcaption></figcaption></figure></div>
+<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/area_render.gif" alt="Illustration of the Infinite Source of Water." width="311"><figcaption><p>Illustration of the Infinite Source of Water.</p></figcaption></figure></div>
 
 </details>
