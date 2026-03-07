@@ -6,8 +6,8 @@ description: Explore, learn, and get the most out of The Solar Apocalypse.
 
 #### 📘 Summary
 
-* 🤔 [**Don't know how to install a modpack?**](installation-guide.md)
 * 📘 [**First time? We’ve got you covered.**](getting-started.md)
+* 🤔 [**Don't know how to install a modpack?**](installation-guide.md)
 * ❓ [**Need help or found a bug?**](support.md)
 * ⚠️ [**Want to fork The Solar Apocalypse?**](terms-of-use.md)
 
