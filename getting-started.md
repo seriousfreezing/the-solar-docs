@@ -6,6 +6,8 @@ description: Everything you need to begin your journey.
 
 ### ☀️ **The Sun’s Awakening**
 
+The world is no longer safe — the _**Sun**_ grows stronger each day, bringing destruction to everything.
+
 * On day 5: Surface blocks began to burn.
 * On day 10: Entities exposed to the _**Sun**_ will burn.
 * On day 15 to 100: The _**Sun**_ will burn any entity or block from layer 100 down to layer 0, regardless of sky exposure.
@@ -70,3 +72,21 @@ Learn how to generate an infinite water source.
 <div align="left" data-full-width="false"><figure><img src=".gitbook/assets/infinitewater.gif" alt="Illustration of the Infinite Source of Water." width="311"><figcaption><p>Illustration of the Infinite Source of Water.</p></figcaption></figure></div>
 
 </details>
+
+### 🌦️ **Seasonal Changes**
+
+Farming has been reworked — crops now depend heavily on the current season.
+
+* Always check which seasons are best for your crops. If ignored, crops will grow **EXTREMELY** slowly.\
+  \- Use a Calendar to track the current season.
+* Each world begins in a random season, and you will experience all four seasons within 96 days.\
+  \- Each season lasts 24 in-game days.
+* Seasons also affect environmental conditions such as rain frequency, ice formation, and other environmental changes.
+
+### 🔥 **Hostile Dimensions**
+
+Before venturing into the **Nether or The End**, keep the following in mind:
+
+* Both dimensions remain accessible, but they are far more **dangerous**.
+* Entering the Nether portal for the first time may take longer than usual due to **Incendium**.
+* The Nether is extremely hot and can quickly burn unprotected players. It is highly recommended that you wear **Leaf Armor** before entering.
