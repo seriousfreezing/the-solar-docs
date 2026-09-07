@@ -17,8 +17,8 @@ Which versions are **actively supported**, and which are no longer receiving upd
 
 | Minecraft |                  Support                  |
 | :-------: | :---------------------------------------: |
-|   26.1.2  |    [_✅ Latest_](#user-content-fn-1)[^1]   |
-|   1.21.1  |     [_⏳ LTS_](#user-content-fn-2)[^2]     |
+|    26.2   |    [_✅ Latest_](#user-content-fn-1)[^1]   |
+|   26.1.2  |     [_⏳ LTS_](#user-content-fn-2)[^2]     |
 |  <1.21.11 | [_⚠️ Deprecated_](#user-content-fn-3)[^3] |
 
 ### 🚦 Status
