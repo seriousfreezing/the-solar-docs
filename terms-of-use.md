@@ -45,7 +45,7 @@ Certain original assets and brand elements of The Solar Apocalypse are protected
 
 Inspired by projects worth discovering.
 
-* <img src="https://cdn.modrinth.com/data/BYN9yKrV/98f14519960b17418d5ba5ebfdc46c85154ad87b_96.webp" alt="MCHeads" data-size="line">  [**Adrenaline**](https://modrinth.com/modpack/adrenaline)
-* <img src="https://cdn.modrinth.com/data/1KVo5zza/9f1ded4949c2a9db5ca382d3bcc912c7245486b4_96.webp" alt="Fabulously Optimized" data-size="line">  [**Fabulously Optimized**](https://modrinth.com/modpack/fabulously-optimized)
+* <img src="https://cdn.modrinth.com/data/BYN9yKrV/98f14519960b17418d5ba5ebfdc46c85154ad87b_96.webp" alt="Adrenaline" data-size="line">  [**Adrenaline**](https://modrinth.com/modpack/adrenaline)
+* <img src="https://cdn.modrinth.com/data/1KVo5zza/d8152911f8fd5d7e9a8c499fe89045af81fe816e.png" alt="Fabulously Optimized" data-size="line">  [**Fabulously Optimized**](https://modrinth.com/modpack/fabulously-optimized)
 * <img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" alt="Sodium" data-size="line">  [**Sodium**](https://modrinth.com/mod/sodium)
 * <img src=".gitbook/assets/vanillatweaks.png" alt="Vanilla Tweaks" data-size="line">  [**Vanilla Tweaks**](https://vanillatweaks.net/about/)
